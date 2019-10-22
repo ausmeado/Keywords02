@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ekbok\source\repos\keywords02\keywords02\source.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Keywords02.vcxproj -> c:\users\ekbok\source\repos\Keywords02\Debug\Keywords02.exe
